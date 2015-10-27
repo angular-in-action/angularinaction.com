@@ -2,7 +2,7 @@ Angular 2 in Action blog site!
 
 How to setup.
 
-    hexo i -g hexo-cli
+    npm install -g hexo-cli
     npm install
     hexo generate
     hexo serve
